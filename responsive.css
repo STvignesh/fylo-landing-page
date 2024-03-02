@@ -1,0 +1,174 @@
+@media (max-width: 24em) {
+  html {
+    font-size: 43.75%;
+  }
+  .header {
+    padding: 0 3.6rem;
+  }
+  .logo {
+    height: 2.8rem;
+  }
+  .main-nav-list {
+    gap: 3.6rem;
+  }
+  .hero {
+    grid-template-columns: 1fr;
+    padding: 0 3.6rem;
+  }
+  .hero-image-box {
+    grid-row: 1/2;
+  }
+  .hero-title,
+  .hero-text-content {
+    text-align: center;
+  }
+  .hero-form {
+    flex-direction: column;
+  }
+  .hero-title {
+    font-size: 3rem;
+  }
+  .hero-text-content {
+    padding-right: 0;
+  }
+  .email-box,
+  .btn {
+    width: 100%;
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+  }
+  .btn {
+    margin-top: 1.2rem;
+  }
+  .error-msg {
+    font-size: 1.4rem;
+    top: 20%;
+    left: 1%;
+    transform: translateY(170%);
+  }
+  .feature-image-box {
+    grid-row: 1/2;
+  }
+  .feature-box {
+    grid-template-columns: 1fr;
+    padding: 0 3.6rem;
+  }
+  .mobile-curve {
+    display: block;
+    transform: translateY(5px);
+    width: 100%;
+  }
+  .desktop-curve {
+    display: none;
+  }
+  .feature-content-box {
+    text-align: center;
+  }
+  .feature-title {
+    font-size: 2.3rem;
+    padding-right: 0;
+  }
+  .feature-text {
+    text-align: left;
+    padding-right: 0;
+    font-size: 1.65rem;
+    margin-bottom: 3rem;
+  }
+  .link-box {
+    justify-content: center;
+  }
+  .card-component {
+    text-align: left;
+    margin: 0 auto;
+  }
+  .quote-icon {
+    height: 1.4rem;
+    width: 1.4rem;
+  }
+  .component-text {
+    font-size: 1.5rem;
+  }
+  .founder-info {
+    gap: 0.6rem;
+  }
+  .testimonial-img {
+    width: 3.5rem;
+  }
+  .founder-name {
+    font-size: 1.3rem;
+  }
+  .position {
+    font-size: 0.95rem;
+  }
+  .feature-box {
+    margin-bottom: 9rem;
+  }
+  .earlyaccess-container {
+    grid-template-columns: 1fr;
+    padding: 4.6rem 3.6rem;
+  }
+  .access-box {
+    justify-content: center;
+  }
+  .access-title {
+    font-size: 2.4rem;
+    text-align: center;
+    margin-bottom: 2.2rem;
+  }
+  .access-text {
+    font-size: 1.95rem;
+    width: 100%;
+    text-align: center;
+    padding-right: 0;
+  }
+  .form-component {
+    padding: 2rem;
+    margin-top: 2rem;
+    gap: 1.8rem;
+  }
+  .email-form {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 2.6rem;
+  }
+  .btn-form {
+    width: 100%;
+    padding: 1.8rem;
+  }
+  .error-msg1 {
+    display: none;
+    color: rgba(255, 0, 0, 0.639);
+    font-size: 1.2rem;
+    font-family: "Raleway", sans-serif;
+    position: absolute;
+    top: 50%;
+    transform: translate(2%, 170%);
+  }
+  .footer-container {
+    width: 100%;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .logo-position {
+    justify-content: flex-start;
+  }
+  .email-logo {
+    margin: 0;
+  }
+  .footers-logo {
+    height: 6rem;
+  }
+  .footer {
+    padding: 8.6rem 3.6rem;
+  }
+  .footer-list li {
+    font-size: 2rem;
+  }
+  .footer-list .footer-logo {
+    justify-content: center;
+  }
+  .app-logo {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+}
