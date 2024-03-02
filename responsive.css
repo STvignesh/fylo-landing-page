@@ -1,4 +1,4 @@
-@media (max-width: 27em) {
+@media (max-width: 29em) {
   html {
     font-size: 43.75%;
   }
@@ -168,7 +168,7 @@
     justify-content: center;
   }
   .app-logo {
-    height: 2.5rem;
-    width: 2.5rem;
+    height: 2.7rem;
+    width: 2.7rem;
   }
 }
